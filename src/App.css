@@ -1,0 +1,101 @@
+.tableForData {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 20px 20px 20px;
+  font-size: 18px;
+  text-align: middle;
+}
+
+.thForData {
+  background-color: #c3b2b2;
+  border: 1px solid #1d1313;
+  padding: 10px;
+  font-weight: bold;
+}
+
+
+.tdForData {
+  border: 1px solid #e6dfdf;
+  padding: 10px;
+  
+}
+
+.tdForData:hover {
+  background-color: #f1f1f1;
+}
+
+.boxForEdit {
+  padding: 10px 10px;
+  margin: 5px 0px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+  width: 10%;
+
+}
+.boxForEdit:first-child {
+  margin-left: 500px;
+}
+
+.boxForEdit:last-child:hover{
+  cursor: pointer;
+  border-color: #000000;
+  background-color: #7df3d0;
+}
+
+.boxForAdd {
+  padding: 10px 10px;
+  margin: 5px 0px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+  width: 10%;
+}
+
+.boxForAdd:first-child {
+  margin-left: 500px;
+}
+
+.boxForAdd:last-child:hover{
+  cursor: pointer;
+  border-color: #000000;
+  background-color: #7df3d0;
+}
+
+.boxForDelete {
+  padding: 10px 10px;
+  margin: 5px 0px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+  width: 10%;
+}
+
+.boxForDelete:first-child {
+  margin-left: 500px;
+}
+
+.boxForDelete:last-child:hover{
+  cursor: pointer;
+  border-color: #000000;
+  background-color: #7df3d0;
+}
+
+.boxForSend {
+  padding: 10px 10px;
+  margin: 5px 0px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+  width: 10%;
+}
+
+.boxForSend:first-child {
+  margin-left: 500px;
+}
+
+.boxForSend:last-child:hover{
+  cursor: pointer;
+  border-color: #000000;
+  background-color: #7df3d0;
+}
